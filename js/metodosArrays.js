@@ -48,8 +48,14 @@ productos.forEach(function(panchito){
     console.log(panchito);
 });
 
+// METODO DE BÚSQUEDA LARGO
 productos.forEach(function(valor){
     if (valor == "Marzo") {
         console.log("Marzo SI existe");
     }
 });
+
+// MÉTODO DE BÚSQUEDA CORTO E IDEAL
+const existe = productos.includes("Marzo");
+console.log(existe);
+
