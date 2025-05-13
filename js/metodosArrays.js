@@ -44,8 +44,8 @@ console.log("Métodos Arrays 2");
 const productos = ["Enero","Febrero","Marzo","Abril","Mayo"];
 
 // NOMBRE ARREGLO . LO QUE QUIERO
-productos.forEach(function(panchito){
-    console.log(panchito);
+productos.forEach(function(aguacate){
+    console.log(aguacate);
 });
 
 // METODO DE BÚSQUEDA LARGO
