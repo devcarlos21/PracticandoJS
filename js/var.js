@@ -14,7 +14,7 @@ var categoria = 'Computadoras', //  Declarando muchas variables AHORRANDO códig
     enviado = false; 
 
 
-var nombre_producto = 'Monitor HD'; // underscore -- snakecase
+var nombre_producto = 'Monitor HD'; // underscore -- snake case
 var nombreProducto = 'Monitor HD'; // Camel case
 var NombreProducto = 'Monitor HD'; // Pascal case -- Usado en clases de este lenguaje JS
 
