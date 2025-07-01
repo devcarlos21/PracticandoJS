@@ -1,6 +1,6 @@
 // Variables con const
 // Guardan valores constantes
-// No pueden quedar vacias ni mucho menos modificarse despues en otra linea
+// No pueden quedar vacias ni mucho menos modificarse después
 
 const producto = 'Computadora'; 
 
