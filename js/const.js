@@ -22,3 +22,5 @@ const NombreProducto = 'Monitor HD';
 
 console.log(categoria);
 console.log(cantidad);
+
+//
