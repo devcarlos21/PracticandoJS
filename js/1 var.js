@@ -1,6 +1,7 @@
 
 //Variables con VAR
-// Actualmente esta práctica de declaración de variables es incorrecta
+// Actualmente esta práctica de declaración de variables es incorrecta 
+// NO USAR
 
 var producto = 'Computadora';
 var producto = false; // Reasigno otro valor
