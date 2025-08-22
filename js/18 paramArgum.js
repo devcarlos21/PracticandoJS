@@ -1,11 +1,11 @@
 
-function suma(){
-    console.log(5+5);
+function suma(num1, num2){ // Parámetros
+    console.log(num1 + num2);
 }
-suma();
+suma(10,5); // Argumentos
 
 
-const resta = function(){
-    console.log(5-3);
+const saludo = function(frase1, nombre){
+    console.log(frase1 + nombre);
 }
-resta();
+saludo("Hola, mi nombre es"," Carlos");
